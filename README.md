@@ -1,11 +1,13 @@
 # TESTE PRÁTICO BACK-END
 
-## Objetivo
+### Objetivo
 
 Seu objetivo nesse teste é construir um protótipo simplificado de um FÓRUM DE DISCUSSÃO web.
 A discussão se dá em threads (tópicos) e comentários encadeados no estilo árvore. A interface web deve contemplar:
 
-* Uma listagem das threads com paginação, apresentando opção (Título e botão) para criar uma nova thread (figuras 1a, 1b e 1c).
+### Teste 
+
+* Uma listagem das threads com paginação, apresentando opção (Título e botão) para criar uma nova thread (figura 1).
 
 * Cada thread deve exibir os comentários em árvore (figura 2a), sendo cada  comentário acompanhado de um formulário para resposta (figura 2c).
 
@@ -21,3 +23,24 @@ Você pode usar tecnologias (frameworks, servidores web, bancos de dados, etc.) 
 Levaremos em conta a qualidade do código, Legibilidade, Testes, Documentação e a performance do sistema, sob carga e volume de dados.
 
 __Não se preocupe com testes Cross browser ou mobile. Foque no Backend e boas práticas de Eng. Software - Para a avaliação não levaremos em conta qualidades estéticas nem usabilidade das páginas.__
+ 
+##### Figura 1
+![Figura 1](images/figura1.png)
+
+##### Figura 2a
+![Figura 2a](images/figura2a.png)
+
+##### Figura 2c
+![Figura 2c](images/figura2c.png)
+ 
+##### Figura 3a
+![Figura 3a](images/figura3a.png)
+
+##### Figura 3b
+![Figura 3b](images/figura3b.png)
+
+##### Figura 3c
+![Figura 3c](images/figura3c.png)
+
+##### Figura 3d
+![Figura 3d](images/figura3d.png)
