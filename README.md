@@ -7,7 +7,7 @@ A discussão se dá em threads (tópicos) e comentários encadeados no estilo á
 
 ### Teste 
 
-* Uma listagem das threads com paginação, apresentando opção (Título e botão) para criar uma nova thread (figura 1).
+* Uma listagem das threads com paginação, apresentando opção (Título e botão) para criar uma nova thread (figura 1a, 1b e 1c).
 
 * Cada thread deve exibir os comentários em árvore (figura 2a), sendo cada  comentário acompanhado de um formulário para resposta (figura 2c).
 
@@ -24,8 +24,14 @@ Levaremos em conta a qualidade do código, Legibilidade, Testes, Documentação 
 
 __Não se preocupe com testes Cross browser ou mobile. Foque no Backend e boas práticas de Eng. Software - Para a avaliação não levaremos em conta qualidades estéticas nem usabilidade das páginas.__
  
-##### Figura 1
-![Figura 1](images/figura1.png)
+##### Figura 1a
+![Figura 1a](images/figura1a.png)
+
+##### Figura 1b
+![Figura 1b](images/figura1b.png)
+
+##### Figura 1c
+![Figura 1c](images/figura1c.png)
 
 ##### Figura 2a
 ![Figura 2a](images/figura2a.png)
